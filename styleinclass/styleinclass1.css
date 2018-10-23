@@ -1,0 +1,12 @@
+.underline{
+    text-decoration: underline;
+}
+.no-underline a{
+    text-decoration: none;
+}
+.uppercase{
+    text-transform: capitalize;
+}
+.cleartext{
+    text-emphasis: none;
+}
